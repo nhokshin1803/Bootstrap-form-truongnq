@@ -1,0 +1,108 @@
+.form {
+    background-color: #e9ecef;
+    padding: 10px 0px 10px 0px;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.label {
+    width: 30px;
+    text-align: left;
+}
+
+.long-label {
+    width: 50px;
+    text-align: left;
+}
+
+.w-60 {
+    width: 40px !important;
+}
+
+.w-30 {
+    width: 20px !important;
+}
+
+.w-120 {
+    width: 80px !important;
+}
+
+.w-70 {
+    width: 40px !important;
+}
+
+.w-60p {
+    width: 60%;
+}
+
+.border-none {
+    border: none;
+}
+
+.m-15 {
+    margin: 15px;
+}
+
+.date-input {
+    width: 120px;
+    text-align: center;
+}
+
+.dark {
+    background-color: #14447e;
+    height: 150px;
+}
+
+.light {
+    background-color: #f4f7fc;
+    height: 700px;
+}
+
+.form-container {
+    position: absolute;
+    top: 0%;
+    width: 95%;
+    background-color: #fff;
+    padding: 10px 10px 15px 10px;
+    border-radius: 5px;
+}
+
+.form {
+    border-radius: 5px;
+}
+
+.container {
+    position: relative;
+}
+
+.table-container {
+    position: absolute;
+    top: 32.5%;
+    left: 2.5%;
+    width: 95%;
+    background-color: #fff;
+    height: 70%;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+}
+
+.table-header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.table-select {
+    width: 60px;
+}
+
+.table-section {
+    text-align: center;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: #c1e2fc;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}

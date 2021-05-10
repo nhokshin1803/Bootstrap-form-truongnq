@@ -27,29 +27,32 @@
     position: relative;
 }
 .dark {
-    height: 150px;
+    height: 10rem;
     background-color: #245085;
 }
 
 .light {
-    height: 1000px;
+    height: 60rem;
     background-color: #f4f7fc;
 }
 
-.form-prop {
+.content-container {
     position: absolute;
     top: 1.4%;
+    left: -0.9%;
+}
+
+.form-prop {
     background-color: #fff;
-    max-width:98.6%;
     border-radius: 5px;
 }
 
 .table-container {
-    position: absolute;
-    top: 36%;
-    bottom: 0%;
+    position: relative;
+    margin-top: 0.5em;
     background-color: #fff;
     border-radius: 5px;
+    height: 50em;
 }
 
 select {
@@ -63,5 +66,9 @@ select {
 }
 
 .no {
-    margin-left: -0.5em;
+    margin-left: -1.3em;
+}
+
+.table-inform {
+    width: 4em;
 }

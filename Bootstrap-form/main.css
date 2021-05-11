@@ -67,14 +67,11 @@ select {
     line-height: 1.5em;
 }
 
-.no {
-    margin-left: -1.3em;
-}
-
 .table-inform {
     width: 4em;
 }
 
-.center-div {
-    margin: 0 auto;
+
+.table-container thead th {
+    font-weight: 500;
 }
